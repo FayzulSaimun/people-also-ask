@@ -1,0 +1,8 @@
+fake_useragent
+html5lib
+bs4
+pandas
+tqdm
+scikit-learn
+nltk
+numpy
